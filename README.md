@@ -1,5 +1,5 @@
 # Classes
-Lista 2 da matéria de Programação avançada
+Lista 2 da matéria de Programação avançada onde contém 8 exercícios 
 
 1. Crie uma classe CalculadoraArea. Implemente três métodos sobrecarregados chamados calcular. O primeiro deve calcular a área de um quadrado (recebe um double), o segundo a de um retângulo (recebe dois double) e o terceiro a de um círculo (recebe um double raio).
 
